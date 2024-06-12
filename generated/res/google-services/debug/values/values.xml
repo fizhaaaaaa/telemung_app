@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">61372269986</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvw0PgixjsyVTr7hvW0PxAxBd417f63bM</string>
+    <string name="google_app_id" translatable="false">1:61372269986:android:101e541f57561f7bfc1efb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvw0PgixjsyVTr7hvW0PxAxBd417f63bM</string>
+    <string name="google_storage_bucket" translatable="false">telemung-83714.appspot.com</string>
+    <string name="project_id" translatable="false">telemung-83714</string>
+</resources>
