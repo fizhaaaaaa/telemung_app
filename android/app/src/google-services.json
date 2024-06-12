@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61372269986",
+    "project_id": "telemung-83714",
+    "storage_bucket": "telemung-83714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61372269986:android:101e541f57561f7bfc1efb",
+        "android_client_info": {
+          "package_name": "com.example.telemung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvw0PgixjsyVTr7hvW0PxAxBd417f63bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
